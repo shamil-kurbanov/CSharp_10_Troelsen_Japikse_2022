@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\bin\Debug\net7.0\SimpleCSharpApp.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\bin\Debug\net7.0\SimpleCSharpApp.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\bin\Debug\net7.0\SimpleCSharpApp.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\bin\Debug\net7.0\SimpleCSharpApp.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\bin\Debug\net7.0\SimpleCSharpApp.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\refint\SimpleCSharpApp.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\SimpleCSharpApp.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\SimpleCSharpApp\obj\Debug\net7.0\ref\SimpleCSharpApp.dll
