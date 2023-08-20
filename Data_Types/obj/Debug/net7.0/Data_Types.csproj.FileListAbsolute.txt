@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\bin\Debug\net7.0\Data_Types.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\bin\Debug\net7.0\Data_Types.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\bin\Debug\net7.0\Data_Types.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\bin\Debug\net7.0\Data_Types.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\bin\Debug\net7.0\Data_Types.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\refint\Data_Types.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\Data_Types.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Data_Types\obj\Debug\net7.0\ref\Data_Types.dll
