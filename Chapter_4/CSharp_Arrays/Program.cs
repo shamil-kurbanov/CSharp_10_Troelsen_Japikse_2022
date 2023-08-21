@@ -9,7 +9,9 @@ public static class Program{
 
             WriteLine("***** Fun with Arrays *****");
             //SimpleArraysOperations.SimpleArrays();
-            ArrayInitialization();
+            //ArrayInitialization();
+            //DeclareImplicitArrays();
+            ArrayOfObjects();
         }
         
 }
