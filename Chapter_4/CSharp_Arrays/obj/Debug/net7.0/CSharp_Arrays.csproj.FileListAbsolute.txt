@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\bin\Debug\net7.0\CSharp_Arrays.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\bin\Debug\net7.0\CSharp_Arrays.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\bin\Debug\net7.0\CSharp_Arrays.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\bin\Debug\net7.0\CSharp_Arrays.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\bin\Debug\net7.0\CSharp_Arrays.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\refint\CSharp_Arrays.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\CSharp_Arrays.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\CSharp_Arrays\obj\Debug\net7.0\ref\CSharp_Arrays.dll
