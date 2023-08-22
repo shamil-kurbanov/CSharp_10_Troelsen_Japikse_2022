@@ -1,0 +1,16 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\bin\Debug\net7.0-windows\Waehrungsrechner.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\bin\Debug\net7.0-windows\Waehrungsrechner.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\bin\Debug\net7.0-windows\Waehrungsrechner.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\bin\Debug\net7.0-windows\Waehrungsrechner.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\bin\Debug\net7.0-windows\Waehrungsrechner.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.Form1.resources
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.csproj.GenerateResource.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\refint\Waehrungsrechner.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\Waehrungsrechner.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Waehrungsrechner\obj\Debug\net7.0-windows\ref\Waehrungsrechner.dll
