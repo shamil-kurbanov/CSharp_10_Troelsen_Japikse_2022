@@ -85,7 +85,7 @@ public static class Multidimensional_Arrays
 
     /*
      * 
-     * Let’s see some of these members in action. The following helper method makes use 
+     * Letï¿½s see some of these members in action. The following helper method makes use 
      * of the static Reverse() and Clear() methods to pump out information about an array 
      * of string types to the console:
      * 

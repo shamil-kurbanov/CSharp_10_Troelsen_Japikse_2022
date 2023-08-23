@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\bin\Debug\net7.0\Understanding_Methods.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\bin\Debug\net7.0\Understanding_Methods.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\bin\Debug\net7.0\Understanding_Methods.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\bin\Debug\net7.0\Understanding_Methods.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\bin\Debug\net7.0\Understanding_Methods.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\refint\Understanding_Methods.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\Understanding_Methods.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\Chapter_4\Understanding_Methods\obj\Debug\net7.0\ref\Understanding_Methods.dll
