@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\bin\Debug\net7.0\Class_Type.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\bin\Debug\net7.0\Class_Type.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\bin\Debug\net7.0\Class_Type.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\bin\Debug\net7.0\Class_Type.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\bin\Debug\net7.0\Class_Type.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\refint\Class_Type.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\Class_Type.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\Class_Type\obj\Debug\net7.0\ref\Class_Type.dll
