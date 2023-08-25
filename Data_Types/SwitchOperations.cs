@@ -1,14 +1,17 @@
 using System;
 using static System.Console;
 
+using 
+
 namespace Data_Types;
 
 
 public static class SwitchOperations
 {
     public static void SwitchExample(){
-        WriteLine("1 [c#]], 2 [VB]");
+        WriteLine("1 [c#]], 2 [VB], 3 [C++]");
         Write("Please pick your language preference: ");
+        
 
         string langChoice = ReadLine();
         int n = int.Parse(langChoice);
@@ -21,6 +24,10 @@ public static class SwitchOperations
             case 2:
                 WriteLine("VB: OOP, multithreading, and more!");
                 break;
+            case 3:
+                WriteLine("C++: Speedy, but challenging.");
+                break;
+                
             default:
                 WriteLine("Well ... good luck with that!");
                 break;
@@ -87,6 +94,7 @@ public static class SwitchOperations
     }
 
 
+    //This method is the same as SwitchExample() but uses a pattern matching switch
     public static void ExecutePatternMatchingSwitch(){
         WriteLine("1 [Integer (5)], 2 [String (\"Hi\")], 3 [Decimal (2.5)]");
         Write("Please choose an option: ");
@@ -128,6 +136,7 @@ public static class SwitchOperations
         WriteLine();
     }
 
+    //
     public static void ExecutePatternMatchingSwitchWithWhen(){
         WriteLine("1 [C#], 2 [VB]");
         Write("Please pick your language preference: ");
@@ -161,13 +170,13 @@ public static class SwitchOperations
             case "Yellow":
                 return "FFFF00";
             case "Green":
-                return "00FF00";
+                return "00FF00"; //Green
             case "Blue":
-                return "0000FF";
+                return "0000FF"; //Blue
             case "Indigo":
                 return "4B0082"; 
             case "Violet":
-                return "9400D3";
+                return "9400D3"; //Violet
             default:
                 return "FFFFFF"; //White
         }
@@ -184,4 +193,6 @@ public static class SwitchOperations
             (_, _) => "Tie",
         };
     }
+    
+    //
 }

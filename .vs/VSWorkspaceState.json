@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter_4",
-    "\\Chapter_4\\Understanding_Methods"
+    "\\OOP",
+    "\\OOP\\Chapter_5_Understanding Encapsulation",
+    "\\OOP\\Chapter_5_Understanding Encapsulation\\Class_Type"
   ],
-  "SelectedNode": "\\Chapter_4\\Understanding_Methods\\Understanding_Methods.csproj",
+  "SelectedNode": "\\OOP\\Chapter_5_Understanding Encapsulation\\Class_Type\\Motorcycle_2.cs",
   "PreviewInSolutionExplorer": false
 }
