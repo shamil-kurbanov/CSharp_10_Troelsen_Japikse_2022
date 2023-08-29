@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\bin\Debug\net7.0\OopExamples.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\bin\Debug\net7.0\OopExamples.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\bin\Debug\net7.0\OopExamples.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\bin\Debug\net7.0\OopExamples.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\bin\Debug\net7.0\OopExamples.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\refint\OopExamples.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\OopExamples.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\OopExamples\obj\Debug\net7.0\ref\OopExamples.dll
