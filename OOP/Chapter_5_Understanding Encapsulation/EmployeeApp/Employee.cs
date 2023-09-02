@@ -1,5 +1,7 @@
 using System;
 using static System.Console;
+using EmployeeApp;
+using static EmployeeApp.EmployeePayTypeEnum;
 
 namespace EmployeeApp;
 
@@ -17,7 +19,7 @@ class Employee
 
     //Properties!
 
-    public EmploeePayTypeEnum PayType{
+    public EmployeePayTypeEnum PayType{
         get => _payType;
         set => _payType = value;
     }
@@ -75,8 +77,9 @@ class Employee
     }
 
     //Methods
-    public void GiveBonus(float ammount){
-            Pay = this.switch (switch_on)
+    public void GiveBonus(float ammount)
+    {
+            Pay = this switch
             {
                 {PayType: EmployeePayTypeEnum.Commission}
                 => Pay += .10F * ammount,

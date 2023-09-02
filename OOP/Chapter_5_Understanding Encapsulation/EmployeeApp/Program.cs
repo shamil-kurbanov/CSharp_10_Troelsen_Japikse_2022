@@ -28,6 +28,8 @@ WriteLine($"Employee new age: {emp.Age}");
 */
 
 //Neu emploee, using the custom constructor with SSN
-Employee emp2 = new Employee("Shamil",28, 001, 100_000, "123-45-6789");
+Employee emp2 = new Employee("Shamil",28, 001, 100_000, "123-45-6789", EmployeePayTypeEnum.Salaried);
 emp2.DisplayStats();
-
+WriteLine(emp2.Pay + " - before bonus");
+emp2.GiveBonus(100);
+WriteLine($"{emp2.Pay} - after bonus");
