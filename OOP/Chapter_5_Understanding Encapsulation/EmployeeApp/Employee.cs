@@ -13,8 +13,14 @@ class Employee
 
     private string? _empSSN;
 
+    private EmployeePayTypeEnum _payType;
+
     //Properties!
 
+    public EmploeePayTypeEnum PayType{
+        get => _payType;
+        set => _payType = value;
+    }
     public string? SocialSecurityNumber
     {
         get => _empSSN;
@@ -58,18 +64,28 @@ class Employee
     }
 
     //Custom constructor
-    public Employee(string? name, int id, float pay):this(name, 0, id, pay, " "){}
-    public Employee(string? name, int age, int id, float pay, string? ssn){
+    public Employee(string? name, int id, float pay, string empSsn):this(name, 0, id, pay, empSsn, EmployeePayTypeEnum.Salaried){}
+    public Employee(string? name, int age, int id, float pay, string? Ssn, EmployeePayTypeEnum payType){
         Name = name;
         Age = age;
         ID = id;
         Pay = pay;
-        SocialSecurityNumber = ssn; //assign the value of the ssn parameter to the field
+        SocialSecurityNumber = Ssn; //assign the value of the ssn parameter to the field
+        PayType = payType;
     }
 
     //Methods
     public void GiveBonus(float ammount){
-            Pay += ammount; //
+            Pay = this.switch (switch_on)
+            {
+                {PayType: EmployeePayTypeEnum.Commission}
+                => Pay += .10F * ammount,
+                {PayType: EmployeePayTypeEnum.Hourly}
+                => Pay += 40F * ammount/2080F,
+                {PayType: EmployeePayTypeEnum.Salaried}
+                => Pay += ammount,
+                _ => Pay += 0
+            };
     }
 
     public void DisplayStats(){
