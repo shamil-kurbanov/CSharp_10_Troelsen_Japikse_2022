@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\bin\Debug\net7.0\ObjectInitializers.cs.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\bin\Debug\net7.0\ObjectInitializers.cs.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\bin\Debug\net7.0\ObjectInitializers.cs.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\bin\Debug\net7.0\ObjectInitializers.cs.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\bin\Debug\net7.0\ObjectInitializers.cs.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\refint\ObjectInitializers.cs.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ObjectInitializers.cs.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\ObjectInitializers.cs\obj\Debug\net7.0\ref\ObjectInitializers.cs.dll
