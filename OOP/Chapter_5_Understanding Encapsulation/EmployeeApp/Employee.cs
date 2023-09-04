@@ -17,6 +17,13 @@ class Employee
 
     private EmployeePayTypeEnum _payType;
 
+    private DateTime _hireDate;
+
+    public DateTime HireDate{
+        get => _hireDate;
+        set => _hireDate = value;
+    }
+
     //Properties!
 
     public EmployeePayTypeEnum PayType{
@@ -81,12 +88,12 @@ class Employee
     {
             Pay = this switch
             {
-                {PayType: EmployeePayTypeEnum.Commission}
-                => Pay += .10F * ammount,
-                {PayType: EmployeePayTypeEnum.Hourly}
-                => Pay += 40F * ammount/2080F,
-                {PayType: EmployeePayTypeEnum.Salaried}
-                => Pay += ammount,
+                {Age: >= 18, PayType: EmployeePayTypeEnum.Commission, HireDate.Year: > 2010}
+                    => Pay += .10F * ammount,
+                {Age: >= 18, PayType: EmployeePayTypeEnum.Hourly, HireDate.Year: > 2010}
+                    => Pay += 40F * ammount/2080F,
+                {Age: >= 18, PayType: EmployeePayTypeEnum.Salaried, HireDate.Year: > 2010}
+                    => Pay += ammount,
                 _ => Pay += 0
             };
     }
