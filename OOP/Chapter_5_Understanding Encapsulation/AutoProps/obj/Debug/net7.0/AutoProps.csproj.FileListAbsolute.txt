@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\bin\Debug\net7.0\AutoProps.exe
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\bin\Debug\net7.0\AutoProps.deps.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\bin\Debug\net7.0\AutoProps.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\bin\Debug\net7.0\AutoProps.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\bin\Debug\net7.0\AutoProps.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\refint\AutoProps.dll
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.pdb
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\AutoProps.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\AutoProps\obj\Debug\net7.0\ref\AutoProps.dll
