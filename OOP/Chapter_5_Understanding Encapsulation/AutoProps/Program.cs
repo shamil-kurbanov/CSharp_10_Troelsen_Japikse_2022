@@ -12,3 +12,7 @@ car1.Color = "Red";
 WriteLine($"Your car is named {car1.PetName}? That's odd...");
 WriteLine("------------------------------------------------");
 car1.DisplayStats();
+WriteLine("");
+
+Garage garage = new Garage();
+WriteLine($"Number of cars in garage: {garage.NumbersOfCars}");
