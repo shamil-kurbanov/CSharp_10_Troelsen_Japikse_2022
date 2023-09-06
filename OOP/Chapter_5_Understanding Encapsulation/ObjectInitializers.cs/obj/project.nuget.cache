@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iM+7KBwiA3SPooeogQs3e1e2s+YfJLVEzgOWsGex+/vDB4+UUXcotSuZqSsJdNaGHg+mJvzUk4koes0QOToiuQ==",
+  "dgSpecHash": "GbfF7msFSIVPUJ5ATrViVKJeRN9RhjxyqGwYwEjzmW5vX2Mycub0Ffndjmti5wzi+VPBMTHsGFz+zkm9I08LSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kurba\\Documents\\GitHub\\gb\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\ObjectInitializers.cs\\ObjectInitializers.cs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\ObjectInitializers.cs\\ObjectInitializers.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

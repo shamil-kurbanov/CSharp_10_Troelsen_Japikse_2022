@@ -26,6 +26,10 @@ PointReadOnlyAfterCreation secontReadOnlyPoint = new PointReadOnlyAfterCreation{
 secontReadOnlyPoint.DisplayStats();
 
 //Calling a custom constructor
-Point pt = new Point(10,16){X = 150, Y = 150}; //Calls ctor, then sets X/Y
+Point pt = new Point(10, 16){X = 150, Y = 150}; //Calls ctor, then sets X/Y
 //first 10,16 are passed to ctor, then X/Y are set to 150
 pt.DisplayStats();
+
+//Calling a more interesting custom constructor with init syntax
+Point goldPoint = new Point(PointColorEnum.LightBlue){X = 90, Y = 20};
+goldPoint.DisplayStats();
