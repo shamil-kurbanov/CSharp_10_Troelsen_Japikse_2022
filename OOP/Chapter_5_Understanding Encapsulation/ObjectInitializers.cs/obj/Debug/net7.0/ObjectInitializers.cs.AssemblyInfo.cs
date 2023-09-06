@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObjectInitializers.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62790f6456b0de89b5aa6717f4a8093a2f0f8f44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d7736386a81c79bd72fe6be0f0ce3fec0b29cc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObjectInitializers.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObjectInitializers.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

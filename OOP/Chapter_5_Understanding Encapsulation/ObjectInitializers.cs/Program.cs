@@ -33,3 +33,32 @@ pt.DisplayStats();
 //Calling a more interesting custom constructor with init syntax
 Point goldPoint = new Point(PointColorEnum.LightBlue){X = 90, Y = 20};
 goldPoint.DisplayStats();
+
+WriteLine();
+
+//Create and initialize a Rectangle
+Rectangle myRect = new Rectangle
+{
+    TopLeft = new Point{X = 10, Y = 10},
+    BottomRight = new Point{X = 200, Y = 200}
+};
+
+myRect.DisplayStats();
+
+WriteLine();
+
+//Create and initialize a Rectangle
+//Old-school approach
+Rectangle rectangle = new Rectangle();
+Point point1 = new Point(PointColorEnum.LightBlue);
+point1.X = 10;
+point1.Y = 10;
+rectangle.TopLeft = point1; //Set TopLeft property
+
+Point point2 = new Point(PointColorEnum.Gold);
+point2.X = 200;
+point2.Y = 200;
+rectangle.BottomRight = point2; //Set BottomRight property
+
+
+rectangle.DisplayStats();
