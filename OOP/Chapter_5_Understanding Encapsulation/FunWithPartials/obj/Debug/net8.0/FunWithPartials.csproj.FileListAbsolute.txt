@@ -1,0 +1,15 @@
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\bin\Debug\net8.0\FunWithPartials.exe
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\bin\Debug\net8.0\FunWithPartials.deps.json
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\bin\Debug\net8.0\FunWithPartials.runtimeconfig.json
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\bin\Debug\net8.0\FunWithPartials.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\bin\Debug\net8.0\FunWithPartials.pdb
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.AssemblyInfoInputs.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.AssemblyInfo.cs
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.sourcelink.json
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\refint\FunWithPartials.dll
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.pdb
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\FunWithPartials.genruntimeconfig.cache
+C:\Users\Shamil\Documents\GitHub\CSharp_10_Troelsen_Japikse_2022\OOP\Chapter_5_Understanding Encapsulation\FunWithPartials\obj\Debug\net8.0\ref\FunWithPartials.dll
