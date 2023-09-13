@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\softd\\.nuget\\packages\\": {}
+    "C:\\Users\\Shamil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\softd\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\BasicInheritance\\BasicInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\BasicInheritance\\BasicInheritance.csproj",
       "projectName": "BasicInheritance",
-      "projectPath": "C:\\Users\\softd\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\BasicInheritance\\BasicInheritance.csproj",
-      "packagesPath": "C:\\Users\\softd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\softd\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\BasicInheritance\\obj\\",
+      "projectPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\BasicInheritance\\BasicInheritance.csproj",
+      "packagesPath": "C:\\Users\\Shamil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shamil\\Documents\\GitHub\\CSharp_10_Troelsen_Japikse_2022\\OOP\\Chapter_5_Understanding Encapsulation\\BasicInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\softd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Shamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
